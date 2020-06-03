@@ -19,7 +19,12 @@ class App extends Component {
        address="12345 Hilton Street, San Francisco, CA, 11234"
       />
      
-      <ContactCard />
+      <ContactCard
+       name="Michael Jordan" 
+       phone="18004569785"
+       email="MJ23@GOAT.com"
+       address="18227 Capstan Greens Road Cornelius, NC"
+       />
       </>
     )
   }
