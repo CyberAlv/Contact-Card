@@ -12,7 +12,13 @@ class App extends Component {
         email="JWick@continental.com"
         address="12345 Main Street, NY, NY, 11103"
         />
-      <ContactCard />
+      <ContactCard
+       name="London Tipton" 
+       phone="1800354785"
+       email="LondonT@TiptonHotel.com"
+       address="12345 Hilton Street, San Francisco, CA, 11234"
+      />
+     
       <ContactCard />
       </>
     )
